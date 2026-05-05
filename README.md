@@ -10,12 +10,6 @@
 div align="center">
   <img height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=nonyx69&theme=tokyonight&hide_border=true&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6" />
 </div>
-
-<div align="center">
-  <img height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonyx69&theme=synthwave&show_icons=true&hide_border=true&layout=compact&langs_count=10&hide=rich%20text%20format,shaderlab,twig,cmake,dockerfile,makefile,glsl,hlsl,objective-c,objective-c++,batchfile,powershell,shell"/>
-</div>
-
 ---
 
 ## 🌐 Language
