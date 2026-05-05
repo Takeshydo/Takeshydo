@@ -8,11 +8,15 @@
 ```
 ## GitHub Stats
 
-<div align="center"> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Takeshydo&theme=tokyonight&hide_border=true" /> </div>
+</div><div align="center">
+
+<img height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=Takeshydo&theme=tokyonight&hide_border=true&ring=ff79c6&fire=ff79c6&c>
+
+</div>
 
 ---
 
-## 🌐 Language / Langue
+## 🌐 Language
 
 * 🇬🇧 [English](#-english-version)
 * 🇫🇷 [Français](#-version-française)
@@ -30,6 +34,20 @@ My work is heavily inspired by iconic **JRPG franchises such as Xenoblade Chroni
 Alongside game development, I also build **web development projects**, allowing me to broaden my technical expertise and strengthen my overall software engineering skills.
 
 I am constantly **learning, building projects, and refining my craft** as I grow as a developer.
+
+---
+
+# 🇫🇷 Version Française
+
+## À propos de moi
+
+Je suis un **Game Developer spécialisé principalement en Gameplay Programming**, avec une solide expérience sur des projets réalisés avec **Unity et Unreal Engine 5 (UE5)**. J’aime concevoir et implémenter des systèmes de gameplay engageants, tout en contribuant au level design et aux interfaces utilisateur.
+
+Mon travail est fortement inspiré par des licences de **JRPG emblématiques comme Xenoblade Chronicles et Final Fantasy**, qui influencent à la fois ma vision du game design et ma manière de créer des expériences immersives. Mon coup de cœur cette année est **Pragmata**, dont la direction artistique et l’atmosphère m’ont particulièrement marqué.
+
+En parallèle du game development, je réalise également des **projets web**, ce qui me permet d’élargir mes compétences techniques et de renforcer mon profil global en développement logiciel.
+
+Je suis constamment en train **d’apprendre, de créer des projets et d’améliorer mes compétences**.
 
 ---
 
@@ -58,52 +76,6 @@ I am constantly **learning, building projects, and refining my craft** as I grow
 * SQL
 
 ### 🛠️ Tools & Environment
-
-* Git
-* GitHub
-* JetBrains IDEs
-
----
-
-# 🇫🇷 Version Française
-
-## À propos de moi
-
-Je suis un **Game Developer spécialisé principalement en Gameplay Programming**, avec une solide expérience sur des projets réalisés avec **Unity et Unreal Engine 5 (UE5)**. J’aime concevoir et implémenter des systèmes de gameplay engageants, tout en contribuant au level design et aux interfaces utilisateur.
-
-Mon travail est fortement inspiré par des licences de **JRPG emblématiques comme Xenoblade Chronicles et Final Fantasy**, qui influencent à la fois ma vision du game design et ma manière de créer des expériences immersives. Mon coup de cœur cette année est **Pragmata**, dont la direction artistique et l’atmosphère m’ont particulièrement marqué.
-
-En parallèle du game development, je réalise également des **projets web**, ce qui me permet d’élargir mes compétences techniques et de renforcer mon profil global en développement logiciel.
-
-Je suis constamment en train **d’apprendre, de créer des projets et d’améliorer mes compétences**.
-
----
-
-## Technologies
-
-### 🎮 Game Development
-
-* Unity
-* Unreal Engine 5
-* Gameplay Programming
-* Level Design
-* UI / UX Programming
-
-### 💻 Langages de programmation
-
-* C#
-* C++
-* Java
-
-### 🌐 Développement Web
-
-* HTML / CSS
-* JavaScript
-* PHP
-* Symfony
-* SQL
-
-### 🛠️ Outils & Environnement
 
 * Git
 * GitHub
