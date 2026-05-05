@@ -7,16 +7,10 @@
 📍 Lyon, France
 ```
 ## GitHub Stats
-<div>
+<div align="center">
  <img height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=Takeshydo&theme=tokyonight&hide_border=true&ring=ff79c6&fire=ff79c6&c>
 </div>
----
-
-## 🌐 Language
-
-* 🇬🇧 [English](#-english-version)
-* 🇫🇷 [Français](#-version-française)
-
+  
 ---
 
 # 🇬🇧 English Version
