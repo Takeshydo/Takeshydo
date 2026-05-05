@@ -6,6 +6,11 @@
 🎮 Game Developer
 📍 Lyon, France
 ```
+---
+#GitHub Stats 
+<div align="center">
+  <img height="280em" src="https://github-readme-streak-stats.herokuapp.com/?user=Takeshydo&theme=tokyonight&hide_border=true&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6" />
+</div>
 
 # 🇬🇧 English Version
 
